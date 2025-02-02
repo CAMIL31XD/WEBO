@@ -829,3 +829,13 @@ java.lang.IllegalArgumentException: Comparison method violates its general contr
 [16:09:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDD: Set own game mode to Survival Mode]
 [16:11:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDD lost connection: Timed out
 [16:11:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD left the game
+[16:16:22] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[16:16:22] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 49 mods : ctgui@1.0.0,abyssaldepths@1.12.2-0.3.1,cgm@0.15.3,coralreef@2.0,zawa@1.12.2-2.1.0,creativecoredummy@1.0.0,jei@4.16.1.1013,futuremc@0.2.6,netherbackport@1.0.0,mcp@9.42,nocubessrpnests@3.0.0,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,forgelin@1.8.4,foamfixcore@7.7.4,uteamcore@2.2.5.339,waila@1.8.26,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@@VERSION@,duneons@1.4,minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,crafttweakerjei@2.0.3,baubles@1.5.2,creativecore@1.10.0,spartanshields@1.5.5,xaerominimap@25.0.0,securitycraft@v1.9.12,libraryex@1.2.2,better_diving@1.5.8,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,srparasites@1.9.21,spartanweaponry@1.6.0,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,bookworm@1.12.2-2.5.2.1,charm@1.4,netherex@2.2.5,playerrevive@1.0,overlast@0.0.2
+[16:16:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:16:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: XDD[/127.0.0.1:57282] logged in with entity id 182096 at (148.82496574101003, 21.0, 66.43765122701781)
+[16:16:24] [Server thread/INFO] [dsurround]: Player [XDD] connected with Dynamic Surroundings @VERSION@
+[16:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD joined the game
+[16:16:24] [Server thread/INFO] [Waila]: Player EntityPlayerMP['XDD'/182096, l='Venezuela', x=148.82, y=21.00, z=66.44] connected. Sending ping
+[16:17:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDD: Set own game mode to Creative Mode]
+[16:22:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDD lost connection: Timed out
+[16:22:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD left the game
